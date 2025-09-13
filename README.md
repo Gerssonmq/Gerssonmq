@@ -23,8 +23,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/TU_INSTAGRAM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
@@ -47,6 +45,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gerssonmq&theme=dracula)
-![Codewars](https://www.codewars.com/users/TU_USUARIO/badges/large)
 
 
