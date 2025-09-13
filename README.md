@@ -1,7 +1,3 @@
-![Status](https://img.shields.io/badge/Status-Coding-blue)
-![Coffee](https://img.shields.io/badge/☕-Necesito%20café-brown)
-![Meme](https://img.shields.io/badge/Meme-Approved-green)
-
 # 👋 Hi, i'm Gersson!
 
 ![Banner](https://ruta-de-tu-imagen/banner.png)
@@ -10,7 +6,10 @@
 - 🎓 **Software Developer** and **Administrative Manager**
 - 💻 Learning **web development and creative projects**
 - 🌍 Live in Colombia - Neiva
-
+  
+![Status](https://img.shields.io/badge/Status-Coding-blue)
+![Coffee](https://img.shields.io/badge/☕-Necesito%20café-brown)
+![Meme](https://img.shields.io/badge/Meme-Approved-green)
 ## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
