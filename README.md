@@ -1,6 +1,13 @@
 # 👋 Hi, i'm Gersson!
 
-![Banner](https://ruta-de-tu-imagen/banner.png)
+<p align="center">
+  <img src="https://github.com/Gerssonmq/Gerssonmq/blob/main/fotoger_circular.png?raw=true" 
+       alt="Foto Gersson" 
+       width="200" 
+       height="200">
+</p>
+
+
 
 ## 🚀 About Me
 - 🎓 **Software Developer** and **Administrative Manager**
