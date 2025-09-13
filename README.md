@@ -30,9 +30,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
 
-![Snake animation](https://github.com/Gerssonmq/Gerssonmq/blob/output/github-contribution-grid-snake.svg)
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tu_id_spotify)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gerssonmq&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gerssonmq&theme=tokyonight&hide_border=true)
+
+<marquee>🚀 Siempre aprendiendo nuevas tecnologías 🚀</marquee>
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)
+
+![Status](https://img.shields.io/badge/Status-Coding-blue)
+![Coffee](https://img.shields.io/badge/☕-Necesito%20café-brown)
+![Meme](https://img.shields.io/badge/Meme-Approved-green)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gerssonmq.Gerssonmq)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Gerssonmq&theme=dracula)
+![Codewars](https://www.codewars.com/users/TU_USUARIO/badges/large)
 
 
