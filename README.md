@@ -1,49 +1,25 @@
-# 👋 Hi, Soy Gersson!
+![Status](https://img.shields.io/badge/Status-Coding-blue)
+![Coffee](https://img.shields.io/badge/☕-Necesito%20café-brown)
+![Meme](https://img.shields.io/badge/Meme-Approved-green)
+
+# 👋 Hi, i'm Gersson!
 
 ![Banner](https://ruta-de-tu-imagen/banner.png)
 
 ## 🚀 About Me
-- 🎓 Estudiante de **Gestión Administrativa en el SENA**
-- 💻 Aprendiendo **App Inventor, desarrollo web y proyectos creativos**
-- 🎭 Integrante de **The Beat Breakers** (grupo de baile urbano)
-- 🌍 Vivo en Neiva, Huila
+- 🎓 **Software Developer** and **Administrative Manager**
+- 💻 Learning **web development and creative projects**
+- 🌍 Live in Colombia - Neiva
 
 ## 🛠 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## 📊 GitHub Stats
-![Gersson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerssonmq&show_icons=true&theme=tokyonight)
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerssonmq&layout=compact&theme=tokyonight)
-
 ## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/TU_INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/ger.mq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[TU_LINKEDIN](https://www.linkedin.com/in/gersson-arith-morales-quintero-8bb9b727a/))
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tu_id_spotify)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gerssonmq&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Gerssonmq&theme=tokyonight&hide_border=true)
-
-<marquee>🚀 Siempre aprendiendo nuevas tecnologías 🚀</marquee>
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)
-
-![Status](https://img.shields.io/badge/Status-Coding-blue)
-![Coffee](https://img.shields.io/badge/☕-Necesito%20café-brown)
-![Meme](https://img.shields.io/badge/Meme-Approved-green)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gerssonmq.Gerssonmq)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Gerssonmq&theme=dracula)
-
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
